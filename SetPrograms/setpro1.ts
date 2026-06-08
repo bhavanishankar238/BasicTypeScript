@@ -18,3 +18,5 @@ H.delete("Batting");
 
 H.clear();
 console.log(H);
+
+//add, delete, clear,has
