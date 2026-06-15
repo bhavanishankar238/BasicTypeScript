@@ -15,3 +15,5 @@ M.delete(34);
 
 console.log(M);
 
+//Set,get,delelte, Size
+
