@@ -3,4 +3,4 @@ for ( ; h< 98;  h++ )
 {
     
 }
-console.log("The For loop terminates H value as"+h);
+console.log("The For loop terminates H value as" +h);
